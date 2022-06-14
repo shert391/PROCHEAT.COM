@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+C:\Users\Shert\Desktop\driver_loader\driver_loader\Utilits.h(6,2): warning C4091: static : пропускается слева от "Utilits", когда ни одна переменная не объявлена
+  driver_loader.vcxproj -> C:\Users\Shert\Desktop\driver_loader\Debug\driver_loader.exe
